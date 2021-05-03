@@ -91,6 +91,6 @@ conn.logger.level = 'debug'
 
 ---------
 
-#### Powered By : [`RAVANAN`](wa.me//+919048410619)
+#### Powered By : [`RAVANAN`]( https://instagram.com/__mr_ravanan?igshid=10rstsvgjbqzm)
 
 #### Author / Creator : [`mrravanan`](https://youtube.com/channel/UCzmR66qTS65JUNNmFplCMNg)
