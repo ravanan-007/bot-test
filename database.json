@@ -1,0 +1,290 @@
+{
+  "users": {
+    "919539189791@s.whatsapp.net": {
+      "exp": 207,
+      "limit": 8,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ranjith2nd",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "919497325168@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ravanan",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "918943521227@s.whatsapp.net": {
+      "exp": 11,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Sathan",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "919074097526@s.whatsapp.net": {
+      "exp": 24,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Remo Iratachunkan",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "919961115060@s.whatsapp.net": {
+      "exp": 74,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Gokul Murali My Gp",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "2348100678418@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Money Heist Mr Ravanan Gp",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "917025350788@s.whatsapp.net": {
+      "exp": 31,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ravanan Ff",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "917306219261@s.whatsapp.net": {
+      "exp": 4,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Prasin V2. 0 New Biginer",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "918281974669@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Alan Kcg",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "642777666666@s.whatsapp.net": {
+      "exp": 5,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Philip 2nd",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "919446186026@s.whatsapp.net": {
+      "exp": 8,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Appu Alapy Yt Supporter",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "919048410619@s.whatsapp.net": {
+      "exp": 66,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ranju",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "918606320398@s.whatsapp.net": {
+      "exp": 6,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Shahul Kcg",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "919048410619-1618693846@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "919048410619-1595044403@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1620116995283,
+      "lastSuccess": 1620116995283
+    },
+    "sticker.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1620100227346,
+      "lastSuccess": 1620100227346
+    },
+    "ytv.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620099989156,
+      "lastSuccess": 1620099989156
+    },
+    "yta.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620100014014,
+      "lastSuccess": 1620100014014
+    },
+    "attp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620100050220,
+      "lastSuccess": 1620100050220
+    },
+    "toimg.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1620116971690,
+      "lastSuccess": 1620116971690
+    },
+    "styletext.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620100163242,
+      "lastSuccess": 1620100163242
+    },
+    "broadcastgroups.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620100316249,
+      "lastSuccess": 1620100316249
+    },
+    "tts.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1620103784068,
+      "lastSuccess": 1620103784068
+    },
+    "play.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620117042544,
+      "lastSuccess": 1620117042544
+    },
+    "yts.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1620117149437,
+      "lastSuccess": 1620117149437
+    }
+  },
+  "msgs": {}
+}
