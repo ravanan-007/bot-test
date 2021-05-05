@@ -12,6 +12,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node test.js"
+    "build" : "npm start"
   },
   "keywords": [
     "termux-whatsapp-bot",
