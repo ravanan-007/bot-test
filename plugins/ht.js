@@ -1,16 +1,16 @@
 let handler = async (m, { conn, text }) => {
   conn.hartatahta = conn.hartatahta ? conn.hartatahta : {}
-  if (m.chat in conn.hartatahta) throw 'There is still a work in progress\n Treasure of the Throne Text\nin this chat ... wait for it to finish'
+  if (m.chat in conn.hartatahta) throw 'Masih ada yang sedang membuat\nTeks Harta Tahta\ndi chat ini... tunggu sampai selesai'
   else conn.hartatahta[m.chat] = true
-  m.reply('_Is making..._\n*Please wait for about 1 minute*')
+  m.reply('_Sedang membuat..._\n*Mohon tunggu sekitar 1 menit*')
   try {
     let img = await ht(text ? text : ':v')
-    conn.sendFile(m.chat, img, 'Harta Tahta.png', '*© MrRavanan*\nMade with FFmpeg', m)
+    conn.sendFile(m.chat, img, 'Harta Tahta.png', '*© Nurutomo*\nMade with FFmpeg', m)
   } finally {
     delete conn.hartatahta[m.chat]
   }
 }
-handler.help = ['tahta <text>']
+handler.help = ['tahta <teks>']
 handler.tags = ['nulis']
 handler.command = /^((harta)?tahta)$/i
 handler.limit = true
@@ -38,8 +38,8 @@ function ht(text = '') {
     let format = ''
     let layers = [
       `[v:0]scale=${s}${format}[im]`,
-      textArgs('mr', 'black', 'white', fsize, font, '(w-text_w)/2', `(h-text_h)/2-(text_h*${lh})`, w, h) + format + '[top]',
-      textArgs('ravanan', 'black', 'white', fsize, font, '(w-text_w)/2', `(h-text_h)/2`, w, h) + format + '[mid]',
+      textArgs('HARTA', 'black', 'white', fsize, font, '(w-text_w)/2', `(h-text_h)/2-(text_h*${lh})`, w, h) + format + '[top]',
+      textArgs('TAHTA', 'black', 'white', fsize, font, '(w-text_w)/2', `(h-text_h)/2`, w, h) + format + '[mid]',
       textArgs(text, 'black', 'white', fsize, font, '(w-text_w)/2', `(h-text_h)/2+(text_h*${lh})`, w, h) + format + '[bot]',
       '[top][mid]blend=all_mode=addition[con]',
       '[con][bot]blend=all_mode=addition[txt]',
